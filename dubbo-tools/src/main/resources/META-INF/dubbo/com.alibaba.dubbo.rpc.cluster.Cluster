@@ -1,0 +1,1 @@
+hystrix=org.chuninsane.tools.dubbo.support.HystrixCluster
